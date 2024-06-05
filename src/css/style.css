@@ -1,4 +1,7 @@
-
+*{
+    padding: auto;
+    margin: 0;
+}
 .container {
 
     display: flex;
@@ -40,6 +43,9 @@
 
 }
 body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: rgb(0, 0, 0);
     font-family: "Righteous", sans-serif;
     text-align: center;
